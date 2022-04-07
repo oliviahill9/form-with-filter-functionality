@@ -9,3 +9,8 @@ This project showcases a basic table with simple styling. The table contains dat
 - HTML
 - CSS
 - JavaScript
+
+
+## View Project
+
+https://oliviahill9.github.io/form-with-filter-functionality/
